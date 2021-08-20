@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marcin, @Arwers
+- 👋 Hi, I’m @Arwers
 - 🏠 Living in Cracow, Poland 
 - 👀 I’m interested in Data Science, Data Analysis and Software Development
 - 📚 I'm currently studying Engineering and Data Analysis in AGH University of Science and Technology
