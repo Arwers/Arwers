@@ -2,7 +2,7 @@
 - 🏠 Living in Cracow, Poland 
 - 👀 I’m interested in Data Science, Data Analysis and Software Development
 - 📚 I'm currently studying Engineering and Data Analysis in AGH University of Science and Technology
-- 🌱 I’m currently learning how to make a decent web scraping tool for my future app
+- 🌱 I’m currently working on my website
 - 📫 How to reach me -> marcin.fortuna@onet.eu
 
 <!---
