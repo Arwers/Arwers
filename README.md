@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Arwers
 - 🏠 Living in Cracow, Poland 
 - 👀 I’m interested in Data Science, Data Analysis and Software Development
-- 📚 I'm currently studying Data Engineering and Data Analysis in AGH University of Science and Technology
-- 🌱 I’m currently working on C projects for procedural programming lectures
+- 📚 I'm currently studying Computer Science at PK Cracow University of Technology 
+- 🌱 I’m currently working on pro/g/ramming challenges
 - 📫 How to reach me -> marcin.fortuna@onet.eu
 
 <!---
