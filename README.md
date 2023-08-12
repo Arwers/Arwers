@@ -2,7 +2,7 @@
 - 🏠 Living in Cracow, Poland 
 - 👀 I’m interested in Data Science, Data Analysis and Software Development
 - 📚 Computer Science student at PK Cracow University of Technology 
-- 🌱 I’m currently working on grocery web app (Python Flask)
+- 🌱 I’m currently working on discord bot 🤖
 - 📫 How to reach me -> marcin.fortuna@onet.eu
 
 <!---
