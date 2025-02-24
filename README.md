@@ -2,7 +2,7 @@
 - 🏠 Living in Cracow, Poland 
 - 👀 I’m interested in Data Science, Data Analysis and Software Development
 - 📚 Computer Science student at PK Cracow University of Technology 
-- 🌱 I’m currently working on firefox browser extension
+- 🌱 I’m currently working on mars rover for futurelab PK
 - 📫 How to reach me -> marcin.fortuna@onet.eu
 
 <!---
