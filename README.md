@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Arwers
-- 🏠 Living in Cracow, Poland 
+- 🏠 Living in Cracow, Poland
+- 🏢 Working as a Associate Software Enginner at IBM (Data and AI)
 - 👀 I’m interested in Data Science, Data Analysis and Software Development
 - 📚 Computer Science student at PK Cracow University of Technology 
 - 🌱 I’m currently working on mars rover for futurelab PK
